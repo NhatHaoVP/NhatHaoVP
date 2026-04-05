@@ -2,8 +2,8 @@
 <h3 align="center">Machine Learning Student | AI Engineer</h3>
 
 <p align="center">
-  <a href="#" onclick="event.preventDefault(); navigator.clipboard.writeText('vophamnhathao.a4.k55@gmail.com'); alert('Đã sao chép Gmail: vophamnhathao.a4.k55@gmail.com');">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="cursor: pointer;" />
+  <a href="mailto:vophamnhathao.a4.k55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/NhatHaoVP">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
